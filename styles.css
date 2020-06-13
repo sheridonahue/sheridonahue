@@ -139,6 +139,23 @@ h2 {
   padding-bottom: 20px;
 }
 
+.linkedin{
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
+
+.linkedinbutton{
+  display: block;
+  margin-left: 46%;
+  margin-right: 46%;
+  height: 100px;
+  width: auto;
+}
+
+.linkedinsection{
+  padding-bottom: 120px;
+}
+
 .holdbanner{
   padding-top: 150px;
   padding-bottom: 5px;
@@ -215,6 +232,64 @@ h2 {
   height: 600px;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.veganvalleylogo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.veganvalleymap{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.contactme{
+  width: 400px;
+  float: left;
+  display: inline;
+  padding-top: 100px;
+  padding-left: 220px;
+ }
+ 
+.hi{
+   font-family: 'Raleway', sans-serif;
+   font-size: 38px;
+   font-weight: 100;
+   color:black
+ }
+
+.sendme{
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  font-weight: 100;
+  color:black
+ }
+ 
+.gmail{
+   font-family: 'Raleway', sans-serif;
+   font-size: 18px;
+   line-height: 35px;
+   padding-top: 20px;
+   text-decoration: none;
+   color: rgb(156, 149, 138);
+ }
+
+.edu{
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  line-height: 35px;
+  text-decoration: none;
+
+  color: rgb(156, 149, 138);
 }
 
 .imgcontactme{
