@@ -88,10 +88,10 @@ h2 {
 }
 
 .education{
- width: 450px;
- float: left;
- padding-top: 40px;
- padding-left: 200px;
+  width: 450px;
+  float: left;
+  padding-top: 40px;
+  padding-left: 200px;
 }
 
 .edtitle{
@@ -153,7 +153,25 @@ h2 {
 }
 
 .linkedinsection{
-  padding-bottom: 120px;
+  padding-bottom: 80px;
+}
+
+.footer{
+  background-color: black;
+  position: absolute;
+  margin-top: 10%;
+  height: 100px;
+  width: 100%;
+}
+
+.built{
+  display: block;
+  margin-left: 40%;
+  margin-right: 40%;
+  font-family: 'Raleway', sans-serif;
+  padding-top: 30px;;
+  font-size: 16px;
+  color: rgb(104, 99, 92);
 }
 
 .holdbanner{
@@ -254,41 +272,40 @@ h2 {
 
 .contactme{
   width: 400px;
-  float: left;
   display: inline;
+  float: left;
   padding-top: 100px;
   padding-left: 220px;
- }
+}
  
 .hi{
-   font-family: 'Raleway', sans-serif;
-   font-size: 38px;
-   font-weight: 100;
-   color:black
- }
+  font-family: 'Raleway', sans-serif;
+  font-size: 38px;
+  font-weight: 100;
+  color:black
+}
 
 .sendme{
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
   font-weight: 100;
   color:black
- }
+}
  
 .gmail{
-   font-family: 'Raleway', sans-serif;
-   font-size: 18px;
-   line-height: 35px;
-   padding-top: 20px;
-   text-decoration: none;
-   color: rgb(156, 149, 138);
- }
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  line-height: 35px;
+  padding-top: 20px;
+  text-decoration: none;
+  color: rgb(156, 149, 138);
+}
 
 .edu{
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   line-height: 35px;
   text-decoration: none;
-
   color: rgb(156, 149, 138);
 }
 
@@ -297,6 +314,11 @@ h2 {
   margin-left: 10%;
   padding-top: 20px;
   float: right;
+}
+
+.divider{
+  margin: 25%;
+  height: 1px;
 }
 
 
